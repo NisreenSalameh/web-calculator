@@ -73,3 +73,22 @@
     color:#fff;
 }
 
+.calculator .equal:hover{
+    background-color: rgb(49, 108, 191);
+}
+
+.calculator .clear:hover{
+    background-color: #bab8b8;
+}
+
+.calculator .num:hover{
+    background-color: #bab8b8;
+}
+
+.calculator .delete:hover{
+    background-color: #bab8b8;
+}
+
+button:hover{
+    cursor: pointer;
+}
