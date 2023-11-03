@@ -2,7 +2,7 @@
 
 A simple web-based calculator application created using HTML, CSS, and JavaScript.
 
-[![Web Calculator](./assets/webcalculator.png)]
+![Web Calculator](./assets/webcalculator.png)
 
 ## Overview
 
